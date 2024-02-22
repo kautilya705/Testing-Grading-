@@ -1,2 +1,5 @@
 # GradingAssignments
-A centralised server system which uses LLMs to grade introduction to programming assignments automatically 
+An automatic grader which uses LLMs to grading programming assignments in a tenth time.
+
+## Subheader 
+The product uses REST API system through multi threading
